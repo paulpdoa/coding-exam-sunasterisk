@@ -1,0 +1,16 @@
+{
+  "bulletins": [
+    {
+      "id": 868,
+      "title": "test",
+      "content": "test",
+      "createdAt": "30/8/2022"
+    },
+    {
+      "id": 833,
+      "title": "Simple Bulle",
+      "content": "this is a sample bullet",
+      "createdAt": "30/8/2022"
+    }
+  ]
+}
